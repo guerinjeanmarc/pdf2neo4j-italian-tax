@@ -1,0 +1,20 @@
+# Essential libraries
+pandas>=2.0.0
+requests>=2.31.0
+
+# PDF processing
+pymupdf>=1.24.0
+
+# Neo4j
+neo4j>=5.20.0
+
+# OpenAI
+openai>=1.40.0
+pydantic>=2.0.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Utilities
+tqdm>=4.66.0
+
